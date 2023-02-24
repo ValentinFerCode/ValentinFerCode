@@ -8,6 +8,13 @@ También soy un entusiasta y mantenedor de código abierto. Aprendí mucho de la
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+<h1>Mis pasatiempos son:</h1>
+<ul>
+<li>Formarme en la programación</li>
+<li>Tiempo en familia</li>
+<li>Ejercicios al aire libre</li>
+</ul>
+  
 - 💼 algún freelance work? contactame, [email](valentinfdez01@gmail.com) :)
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
