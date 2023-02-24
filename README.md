@@ -4,7 +4,7 @@
 
 Soy [Valentín Fernández](https://abhishknads.me/), un apasionado desarrollador web autodidacta de pila completa independiente de Uruguay. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
-También soy un entusiasta y mantenedor de código abierto. aprendí mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
+También soy un entusiasta y mantenedor de código abierto. Aprendí mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
