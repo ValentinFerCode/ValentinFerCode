@@ -1,7 +1,7 @@
 ### hey there 
 
 <a href="https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/valentin-fercode/">
-  <img align="left" alt="Valentin LinkedIN" width="22px"/>
+  <img align="left" alt="Valentin LinkedIN" width="15px"/>
 </a>
 
 <br />
