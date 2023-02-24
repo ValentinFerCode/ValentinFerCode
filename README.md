@@ -1,6 +1,6 @@
-### hey there 
+### Bienvenido!
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/valentin-fercode/">
+<a href="https://www.linkedin.com/in/valentin-fercode/">
   <img align="left" alt="Valentin LinkedIN" width="15px"/>
 </a>
 
