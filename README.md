@@ -24,11 +24,11 @@ También soy un entusiasta y mantenedor de código abierto. aprendí mucho de la
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **esta semana trabaje con:**
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   23 hrs 5 mins   ██████████████████████░░░   87.35 %
+Python   23 hrs 5 mins   ██████████████████████░░░   87.35 %
 JavaScript   2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
 SCSS         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
@@ -37,16 +37,13 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+Acerca de mis gustos; me gusta ver atardeceres, disfrutar una barra de chocolate y también decir que soy muy fan del café/té
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+soon
 <!-- TODO-IST:END -->
 
 
