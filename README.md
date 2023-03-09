@@ -1,13 +1,12 @@
-<h1 align="center">Bienvenido!!</h1>
+<h1 align="center">Bienvenido 👋</h1>
 
-<h2 align="center">Hola 👋, soy Valentín</h2>
 <br />
 
 Soy [Valentín Fernández](https://www.linkedin.com/in/valentin-fercode/), un apasionado desarrollador web autodidacta de pila completa independiente de Uruguay. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
-También soy un entusiasta y mantenedor de código abierto. Aprendí mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
+Aprendí mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 <h1>📋Mis pasatiempos son:</h1>
 <ul>
@@ -19,7 +18,7 @@ También soy un entusiasta y mantenedor de código abierto. Aprendí mucho de la
 - 💼 algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
-**languages and tools:**  
+**Lenguajes y herramientas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
