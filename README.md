@@ -11,7 +11,7 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 <h1>📋Mis pasatiempos son:</h1>
 <ul>
 <li>👨🏻‍💻 Formarme en la programación</li>
-<li>👩🏻‍🤝‍🧑🏻🐈 Tiempo en familia</li>
+<li>👩🏻‍🤝‍🧑🏻 Tiempo en familia</li>
 <li>🏀 Entrenar básquetbol</li>
 </ul>
   
@@ -33,7 +33,7 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 <!--
 📊 **esta semana trabaje con:**
 -->
-Acerca de mis gustos: me gusta ver atardeceres, disfrutar una barra de chocolate y también decir que soy muy fan del café/té
+Acerca de mis gustos: soy más de gatos, me gusta ver atardeceres, disfrutar una barra de chocolate y también decir que soy muy fan del café ☕
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
