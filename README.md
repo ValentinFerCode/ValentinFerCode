@@ -20,7 +20,7 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 
 **Lenguajes y herramientas:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/icons/bootstrap-fill.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/icons/bootstrap-fill.svg" alt="Bootstrap"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
