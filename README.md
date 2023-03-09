@@ -39,7 +39,7 @@ Acerca de mis gustos: me gusta ver atardeceres, disfrutar una barra de chocolate
 
 🚧 **My ToDoList stats:**
 <!-- TODO-IST:START -->
-soon
+Soon
 <!-- TODO-IST:END -->
 
 
