@@ -8,7 +8,7 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-<h1>📋Mis pasatiempos son:</h1>
+<h1>📋 Mis pasatiempos son:</h1>
 <ul>
 <li>👨🏻‍💻 Formarme en la programación</li>
 <li>👩🏻‍🤝‍🧑🏻 Tiempo en familia</li>
