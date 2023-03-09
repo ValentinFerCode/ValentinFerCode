@@ -1,4 +1,7 @@
-### Bienvenido!
+<div style="text-align: center;">
+  <h1>Bienvenido!!</h1>
+</div>
+
 <h1 align="center">Hola 👋, soy Valentín</h1>
 <br />
 
@@ -10,9 +13,9 @@ También soy un entusiasta y mantenedor de código abierto. Aprendí mucho de la
   
 <h1>📋Mis pasatiempos son:</h1>
 <ul>
-<li>Formarme en la programación 👩🏻‍💻</li>
-<li>Tiempo en familia 👩🏻‍🤝‍🧑🏻🐈</li>
-<li>Ejercicios al aire libre 🚶🏻‍♂️</li>
+<li>👨🏻‍💻 Formarme en la programación</li>
+<li>👩🏻‍🤝‍🧑🏻🐈 Tiempo en familia</li>
+<li>🏀 Entrenar básquetbol</li>
 </ul>
   
 - 💼 algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
