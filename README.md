@@ -37,9 +37,8 @@ Acerca de mis gustos: me gusta ver atardeceres, disfrutar una barra de chocolate
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-
+🚧 **My ToDoList stats:**
 <!-- TODO-IST:START -->
-🚧 **my todoist stats:**
 soon
 <!-- TODO-IST:END -->
 
