@@ -36,7 +36,7 @@ Aprendí mucho de la comunidad de código abierto y me encanta cómo la colabora
 -->
 Acerca de mis gustos: me gusta ver atardeceres, disfrutar una barra de chocolate y también decir que soy muy fan del café ☕
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank" style="display:inline-block;background-color:#FFDD00;color:#000000;text-align:center;font-weight:bold;padding:10px 20px;font-size:16px;border-radius:5px;">¡Invítame un café!</a>
 
 🚧 **My ToDoList stats:**
 <!-- TODO-IST:START -->
