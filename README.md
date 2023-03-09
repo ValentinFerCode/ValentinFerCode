@@ -1,8 +1,6 @@
-<div text-align-center>
-  <h1>Bienvenido!!</h1>
-</div>
+<h1 align="center">Bienvenido!!</h1>
 
-<h1 align="center">Hola 👋, soy Valentín</h1>
+<h2 align="center">Hola 👋, soy Valentín</h2>
 <br />
 
 Soy [Valentín Fernández](https://www.linkedin.com/in/valentin-fercode/), un apasionado desarrollador web autodidacta de pila completa independiente de Uruguay. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
